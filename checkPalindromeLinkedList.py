@@ -43,6 +43,7 @@ def isPalindrome(head):
         
     return True
 
+# Testing
 l1 = [0,1,2,3,3,2,1,0]
 l2 = [0,1,2,3,2,1,0]
 l3 = [0,1,2,3,2,1,1]
