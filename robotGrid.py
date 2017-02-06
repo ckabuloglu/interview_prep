@@ -26,3 +26,4 @@ def robotGrid(r,c,m,n, memo):
 print grid(2, 2)
 print grid(3, 3)
 print grid(20, 20)
+print grid(100, 100)
