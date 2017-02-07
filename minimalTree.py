@@ -1,5 +1,9 @@
-class TreeNode():
+'''
+Crakcing the coding interview
+4.2
+'''
 
+class TreeNode():
     def __init__(self,data, left=None, right=None):
         self.data = data
         self.left = left
