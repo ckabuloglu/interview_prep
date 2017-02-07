@@ -9,7 +9,6 @@ class TreeNode():
         self.left = left
         self.right = right
 
-
 def makeTree(arr):
     if len(arr) == 1:
         return TreeNode(arr[0])
@@ -21,6 +20,3 @@ def makeTree(arr):
 
 a = range(9)
 tree = makeTree(a)
-print tree.data
-print tree.left.data
-print tree.right.data
